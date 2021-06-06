@@ -1,5 +1,9 @@
 # Gesture-to-speech-conversion-using-Image-Processing-and-CNN
-The gesture used by the differently abled people are often not understandable so these signs are converted to the speech using image of the sign captured and using CNN. We have used 20 basic signs to predict. This model is initially trained by the signs that we give as input. Many more signs also can be added and the training and test sets also can be increased. For Speech conversion gTTs is and played by pressing the enter key.
+The gesture used by the differently abled people are often not understandable so these signs are converted to the speech using image of the sign captured and using CNN. We have used 20 basic signs to predict. 
+Model: CNN
+Language: Python
+
+This model is initially trained by the signs that we give as input. Many more signs also can be added and the training and test sets also can be increased. For Speech conversion gTTs is and played by pressing the enter key.
 The model can also be further developed as Video Processing and used for predicting sentences.
 The demo video is attached below:
 
